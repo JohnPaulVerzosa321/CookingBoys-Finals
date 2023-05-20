@@ -1,0 +1,269 @@
+<resources>
+    <string name="app_name">CookingBOYS</string>
+    <string name="login">Login</string>
+    <string name="sign">Sign</string>
+    <string name="forgot">Forgot</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="ok">OKd</string>
+    <string name="meats">Meats</string>
+    <string name="seafoods">Seafoods</string>
+    <string name="vegetable">Vegetable</string>
+    <string name="search">Search</string>
+    <string name="x">X</string>
+    <string name="adobo">adobo</string>
+    <string name="beefsteak">beefsteak</string>
+    <string name="sini">sini</string>
+    <string name="paksiw">Paksiw</string>
+    <string name="hipon">Hipon</string>
+    <string name="tahong">tahong</string>
+    <string name="chopseuy">chopseuy</string>
+    <string name="pakbet">pakbet</string>
+    <string name="mongo">mongo</string>
+    <string name="about_us">AboutUs</string>
+
+    <string name="about_us_names">Created By: \n
+    Verzosa, John Paul M. \n
+    Yumul, John Kenneth C. \n
+    Molito, Aldwin B. \n\n
+    2023</string>
+
+    <string name="about_us1">We are a group of 3rd Year Students from NEW ERA UNIVERSITY came up with the idea of creating an app related on food section, we call it the "The Cooking Boys" app.</string>
+    <string name="about_us2">Our team are called as "Cooking Juan'D", the "Juan" represents the Filipino people and the "Cooking" symbolizes the love of the Filipino people in cooking. </string>
+    <string name="about_us3">Our chosen app can be use as a guide for someone who wants to try a Filipino dish, our app includes the ingredients and cooking instruction for a specific dish.</string>
+    <string name="about_us4">The chosen dishes for our app are the most popular and well known dishes in the Philippines and almost the entire Filipino people knows about it.</string>
+    <string name="about_us5">We thank you for using this app and viewing some of the most delicious dishes here in the Philippines.</string>
+    <string name="about_us7">Happy studying! \n\n -The Cooking Juan’D </string>
+
+    <string name="adoborecipe">Ingredients: \n
+        ● 2 tbsp canola oil \n
+        ● 6 cloves garlic crushed \n
+        ● 1 pc onion, sliced \n
+        ● 1 kilogram chicken cut ups \n
+        ● 2 tbsp vinegar \n
+        ● 1/4 cup soy sauce \n
+        ● 1 cup water \n
+        ● 2 pcs bay leaves \n
+        ● 1 tsp whole black peppercorns, slightly crushed \n
+        ● 2 pc Knorr chicken cubes \n
+        ● 1 tsp brown sugar packed \n
+        ● Option: 1 cup kale or spinach</string>
+
+    <string name="adoboinstructions">Instructions: \n
+        1 Heat oil in pan and sauté garlic and onions. Then add chicken to the pan and \n
+        sear on all sides, until you have a little browning in the chicken skin. \n
+        2 Pour in vinegar, soy sauce and water. Add bay leaves, pepper and Knorr \n
+        Chicken Cubes. Bring to a boil over high heat then reduce heat to simmer, but do \n
+        not cover the pan. Continue to simmer for 10 mins. \n
+        3 Remove chicken pieces from sauce and fry in another pan until nicely \n
+        browned. \n
+        4 Put back fried chicken pieces into sauce. Add sugar and let simmer again for \n
+        another 10 minutes or until sauce has thickened. Serve warm. </string>
+
+    <string name="sinigangrecipe">Ingredients: \n
+        ● 2 pounds pork spare ribs, cut into 2-inch pieces \n
+        ● 8 cups water \n
+        ● 2 large tomatoes, quartered \n
+        ● 1 medium onion, peeled and quartered \n
+        ● 2 tablespoons fish sauce \n
+        ● 6 pieces gabi \n
+        ● 1 6-inch radish (labanos) \n
+        ● 2 finger chilies (siling haba) \n
+        ● 1/2 bunch long beans (sitaw) \n
+        ● 1 eggplant \n
+        ● 6 pieces okra, ends trimmed \n
+        ● 15 pieces large tamarind \n
+        ● salt and pepper to taste \n
+        ● 1 bunch bok choy or pechay</string>
+
+    <string name="sinigang1">Instructions: \n
+        1. Rinse pork ribs and drain well. \n
+        2. In a pot over medium heat, combine pork and enough water to cover. Bring to a \n
+        boil, skimming scum that accumulates on top. \n
+        3. Once broth clears, add tomatoes, onion, and fish sauce. Lower heat and simmer \n
+        for about 1 to 1 1/2 hours or until meat is tender, adding more water as \n
+        necessary to maintain about 8 cups. \n
+        4. Add gabi and cook for about 4 to 6 minutes or until tender. \n
+        5. Add chili peppers and radish. Continue to simmer for about 2 to 3 minutes. \n
+        6. Add long beans. Continue to cook for about 2 minutes. \n
+        7. Add eggplant and okra and cook for another 1 to 2 minutes. \n
+        8. If using packaged tamarind base, add to the pot and stir until completely \n
+        dissolved. \n
+        9. Season with salt and pepper to taste. \n
+        10.Add bok choy and continue to cook for about 1 minute. Serve hot.</string>
+
+    <string name="beef_recipe">Ingredients: \n
+        ● 2 pounds top round or sirloin, sliced thinly \n
+        ● 2 lemons, juiced (about 1/4 cup juice) \n
+        ● 1/4 cup soy sauce \n
+        ● 1 onion, peeled and sliced thinly \n
+        ● 1 head garlic, peeled and minced \n
+        ● 1/4 teaspoon pepper \n
+        ● 3 tablespoons canola oil \n
+        ● 1 cup water \n
+        ● salt to taste \n
+        ● 1 onion, peeled and sliced into rings</string>
+
+    <string name="beef_instructions">Instructions: \n
+        1. In a bowl, combine beef, lemon juice, soy sauce, sliced onions, garlic, and \n
+        pepper. Massage marinade into the meat and marinate for about 30 minutes. \n
+        2. Remove meat, onions, and garlic from marinade, squeezing and reserving excess liquid. \n
+        3. In a pan over high heat, heat oil. Add beef and cook for about 3 to 5 minutes per \n
+        side or until lightly browned. Spoon out and reserve released meat juices during frying. Remove meat. \n
+        4. In the pan, add onions and garlic, and cook, stirring regularly, until softened. Return browned beef to pan. \n
+        5. Add reserved marinade and meat juices. Add water and bring to a boil. \n
+        6. Cover, lower heat, and simmer for about 40 to 50 minutes or until meat is \n
+        fork-tender and liquid is reduced. Season with salt to taste. \n
+        7. Turn off heat. Garnish with onion rings, if desired, and cover to allow onions to \n
+        cook slightly in the steam. Serve hot</string>
+
+    <string name="shrimp_recipe">Ingredients: \n
+        ● 2 lbs shrimp cleaned \n
+        ● 2 tablespoons parsley chopped \n
+        ● 1/4 cup butter \n
+        ● 1 head garlic crushed \n
+        ● 1 cup lemon lime soda \n
+        ● 1 teaspoon lemon juice \n
+        ● salt and pepper to taste</string>
+
+    <string name="shrimp_instruction">Instructions: \n
+        1. Marinate the shrimp in lemon soda for about 10 minutes \n
+        2. Melt the butter in a pan. \n
+        3. Add the garlic. Cook in low heat until the color turns light brown \n
+        4. Put-in the shrimp. Adjust heat to high. Stir-fry until shrimp turns orange. \n
+        5. Season with ground black pepper, salt, and lemon juice. Stir. \n
+        6. Add parsley. Cook for 30 seconds. \n
+        7. Serve hot. Share and Enjoy! \n </string>
+
+    <string name="paksiw_recipe">Ingredients: \n
+        ● 1 1/2 lbs. milkfish cleaned and sliced crosswise into serving pieces \n
+        ● 3 thumbs ginger crushed \n
+        ● 5 cloves garlic crushed \n
+        ● 1/2 cup white vinegar \n
+        ● 1 cup water \n
+        ● 1 piece onion sliced \n
+        ● 1 piece Chinese eggplant chopped \n
+        ● 5 pieces okra \n
+        ● 2 pieces long green pepper \n
+        ● 1 teaspoon whole peppercorn \n
+        ● Salt to taste</string>
+
+    <string name="paksiw_instruction">Instructions: \n
+        1. Arrange ginger, garlic, okra, onion, long green pepper, \n
+        peppercorn, and eggplant on the pot. \n
+        2. Top with bangus slices. \n
+        3. Pour water and vinegar. Apply heat and let boil. Cover and \n
+        continue to cook in low to medium heat for 15 minutes. \n
+        4. Add salt to taste. \n
+        5. Transfer to a serving plate. Serve. \n
+        6. Share and enjoy! </string>
+
+    <string name="baked_recipe">Ingredients: \n
+        ● 2 lbs mussels tahong, cleaned and boiled until the shells open \n
+        ● 1/2 cup butter softened \n
+        ● 7 cloves garlic pounded and minced \n
+        ● 1 cup quickmelt cheese grated </string>
+
+    <string name="baked_instructions">Instructions: \n
+        1. Preheat oven to 375 degrees Fahrenheit. \n
+        2. Combine butter and garlic then mix well. \n
+        3. Remove the extra shell from the mussel. Place some butter and garlic mixture on \n
+        the mussels using a teaspoon or brush. \n
+        4. Top the mussels with grated quickmelt cheese. \n
+        5. Arrange the mussels in a baking tray lined with Aluminum foil. \n
+        6. Bake for 15 to 18 minutes. \n
+        7. Remove from the oven and transfer to a serving plate. \n
+        8. Serve as an appetizer dish. Share and enjoy! </string>
+
+    <string name="chopseuy_recipe">Ingredients: \n
+        ● 7 pieces shrimp cleaned and deveined \n
+        ● 3 ounces pork sliced \n
+        ● 3 ounces boneless chicken breast sliced \n
+        ● 1 ½ cup cauliflower florets \n
+        ● 1 piece carrot sliced crosswise into thin pieces \n
+        ● 15 pieces snow peas \n
+        ● 8 pieces baby corn \n
+        ● 1 piece red bell pepper sliced into squares \n
+        ● 1 piece green bell pepper sliced into squares \n
+        ● 1 ½ cups cabbage chopped \n
+        ● 12 pieces quail eggs boiled \n
+        ● 1 piece yellow onion sliced \n
+        ● 4 cloves garlic crushed \n
+        ● ¼ cup soy sauce \n
+        ● 1 ½ tablespoons oyster sauce \n
+        ● ¾ cup water \n
+        ● 1 tablespoon cornstarch diluted in ½ cup water \n
+        ● ¼ teaspoon ground black pepper \n
+        ● 3 tablespoons cooking oil </string>
+
+    <string name="chopseuy_instructions">Instructions: \n
+        1. Heat oil in a wok or pan. \n
+        2. Pan fry the shrimp for 1 minute per side. Remove from the wok. Set aside. \n
+        3. Saute onion. Add garlic and continue to saute until the onion becomes soft. \n
+        4. Add pork and chicken. Stir fry until light brown. \n
+        5. Add soy sauce and oyster sauce. Stir. \n
+        6. Pour water. Let boil. Cover and cook in medium heat for 15 minutes. \n
+        7. Add cauliflower, carrots, bell peppers, snow peas, and young corn. Stir. \n
+        8. Add cabbage. Toss. Cover and cook for 5 to 7 minutes. \n
+        9. Put the pan-fried shrimp into the pot and add ground black pepper. \n
+        10.Add the boiled quail eggs and cornstarch diluted in water. Toss. \n
+        11.Transfer to a serving plate. Serve. \n
+        12.Share and enjoy! </string>
+
+    <string name="bean_recipe">Ingredients: \n
+        ● 1 cup dried mung beans \n
+        ● 6 cups water \n
+        ● 1 tablespoon vegetable oil \n
+        ● 1 onion, peeled and sliced thinly \n
+        ● 3 cloves garlic, peeled and minced \n
+        ● 1 large tomato, chopped \n
+        ● 2 cups chicharon (pork cracklings with attached meat) \n
+        ● 1 bunch fresh spinach, stems trimmed \n
+        ● 1 tablespoon fish sauce</string>
+
+    <string name="bean_instructions">Instructions: \n
+        1. Sort through the mung beans, discarding discolored or shriveled beans and \n
+        any grit or dirt. Rinse beans in cold, running water until water runs clear. Drain well. \n
+        2. In a large pot, combine mung beans and water. Over medium heat, bring to \n
+        a boil skimming froth that floats on top. \n
+        3. Lower heat, cover, and continue to cook for about 45 to 50 minutes or until \n
+        beans have softened and skins have burst. Add more water as needed to \n
+        maintain about 4 cups. \n
+        4. In another pot over medium heat, heat oil. Add onions and garlic and cook \n
+        until tender and aromatic. \n
+        5. Add tomatoes and cook, mashing with the back of the spoon, until softened. \n
+        6. Add fish sauce and continue to cook for about 1 to 2 minutes. \n
+        7. Add cooked mung beans including liquid. Bring to a boil. \n
+        8. Add pork cracklings and continue to cook until softened. Season with salt \n
+        and pepper to taste. \n
+        9. Add spinach, turn off heat and cover pot for about 1 to 2 minutes or until \n
+        spinach is just wilted. Serve hot. </string>
+
+    <string name="pakbet_recipe">Ingredients: \n
+        ● 1 1/2 lbs. squash cubed \n
+        ● 18 pieces string beans cut in 2-inch pieces \n
+        ● 1 piece Knorr Pork cube \n
+        ● 3 ounces pork sliced into small pieces, preferably boiled \n
+        ● 4 cups coconut milk \n
+        ● 1 piece onion chopped \n
+        ● 2 thumbs ginger sliced into strips \n
+        ● 5 cloves garlic crushed \n
+        ● ¼ teaspoon ground black pepper \n
+        ● 1 tablespoon cooking oil \n
+        ● Fish sauce to taste </string>
+
+    <string name="pakbet_instructions">Instructions: \n
+        1. Heat oil in a pan. Add pork. Cook until brown and crispy. \n
+        2. Sauté garlic, onion, and ginger. \n
+        3. Once the onion softens, pour the coconut milk into the pan. Stir. Cover the pan \n
+        and let the liquid boil. Once boiling, adjust the heat to medium and continue \n
+        boiling for 5 minutes. \n
+        4. Add Knorr Pork Cube and squash. Continue cooking for 5 minutes. \n
+        5. Add string beans. Cook for 5 to 8 minutes. \n
+        6. Season with ground black pepper and fish sauce as needed. \n
+        7. Transfer to a serving plate. Serve with warm rice</string>
+
+
+
+
+</resources>

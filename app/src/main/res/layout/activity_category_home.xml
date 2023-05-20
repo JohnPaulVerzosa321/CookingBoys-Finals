@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/catback"
+    tools:context=".categoryHome">
+
+    <ImageButton
+        android:id="@+id/btnmeat"
+        android:layout_width="200dp"
+        android:layout_height="104dp"
+        android:backgroundTint="#00FFFFFF"
+        android:contentDescription="@string/meats"
+        android:scaleType="fitCenter"
+        android:transitionName="@string/meats"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.35"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.377"
+        app:srcCompat="@drawable/btnmeat" />
+
+    <ImageButton
+        android:id="@+id/btnseafood"
+        android:layout_width="200dp"
+        android:layout_height="104dp"
+        android:backgroundTint="#00FFFFFF"
+        android:contentDescription="@string/meats"
+        android:scaleType="fitCenter"
+        android:transitionName="@string/vegetable"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.543"
+        app:srcCompat="@drawable/btnseafoods" />
+
+    <ImageButton
+        android:id="@+id/btnvege"
+        android:layout_width="200dp"
+        android:layout_height="104dp"
+        android:backgroundTint="#00FFFFFF"
+        android:contentDescription="@string/vegetable"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.35"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.709"
+        app:srcCompat="@drawable/btnvaget" />
+
+
+    <ImageButton
+        android:id="@+id/btnaboutus"
+        android:layout_width="210dp"
+        android:layout_height="93dp"
+        android:backgroundTint="#00FFFFFF"
+        android:contentDescription="@string/about_us"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.59"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.86"
+        app:srcCompat="@drawable/aboutusx" />
+
+    <SearchView
+        android:id="@+id/searchView"
+        android:layout_width="378dp"
+        android:layout_height="46dp"
+        android:background="#00F7E9E6"
+        android:queryHint="Search here..."
+        android:transitionName="@string/search"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.454"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.243">
+
+    </SearchView>
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="396dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="8dp"
+        android:background="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/searchView"
+        tools:ignore="MissingConstraints" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
